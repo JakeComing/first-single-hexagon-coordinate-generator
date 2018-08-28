@@ -1,0 +1,11 @@
+{
+  "name": "first-single-hexagon-coordinate-generator",
+  "version": "0.0.0",
+  "description": "simple coordinate generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jake Coming",
+  "license": "MIT"
+}
